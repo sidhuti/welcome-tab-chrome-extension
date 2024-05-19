@@ -31,5 +31,3 @@ Feel free to submit issues or pull requests if you have suggestions for improvem
 This project is licensed under the MIT License.
 
 ---
-
-You can customize this README file further based on specific details or instructions you want to add.
