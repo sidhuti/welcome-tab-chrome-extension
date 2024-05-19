@@ -6,6 +6,9 @@ Here's a README file for the "Welcome Tab Chrome Extension" based on the reposit
 
 Chrome extension opens with a welcome message each time a new tab is created.
 
+![Welcome-Tab-Chrome-Extension](https://github.com/sidhuti/welcome-tab-chrome-extension/assets/44959054/05c0316c-218b-42e5-b604-0466b0170e7a)
+
+
 ## Installation
 
 1. Clone the repository or download the zip file.
@@ -15,9 +18,9 @@ Chrome extension opens with a welcome message each time a new tab is created.
 
 ## Usage
 
-Once installed, the extension will automatically open a welcome tab with the current date and time. 
-A user can enter their name as well to customize the extension.
+Extension shows current local time in every new tab.
 
+User can customize the extension by entering their name.
 
 ## Contributing
 
