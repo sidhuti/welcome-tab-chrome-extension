@@ -1,7 +1,3 @@
-Here's a README file for the "Welcome Tab Chrome Extension" based on the repository details:
-
----
-
 # Welcome Tab Chrome Extension
 
 Chrome extension opens with a welcome message each time a new tab is created.
