@@ -7,13 +7,10 @@ Chrome extension opens with a welcome message each time a new tab is created.
 
 ## Installation
 
-1. Clone the repository
-`gh repo clone https://github.com/sidhuti/welcome-tab-chrome-extension.git`
-
-
+1. Clone the repository `gh repo clone https://github.com/sidhuti/welcome-tab-chrome-extension.git`
 2. Open Chrome and navigate to `chrome://extensions/`.
-3. Enable "Developer mode" by toggling the switch in the top right corner.
-4. Click "Load unpacked" and select the directory where you extracted the files.
+3. Enable `Developer mode` by toggling the switch in the top right corner.`
+4. Click `Load unpacked` and select the directory where you extracted the files.
 
 ## Usage
 
